@@ -1,0 +1,900 @@
+CXR502_IM-2120-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3431_IM-1660-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . bony structures are intact .
+CXR600_IM-2192-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR913_IM-2417-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3580_IM-1760-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . bony structures are intact .
+CXR1272_IM-0183-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . bony structures are intact .
+CXR350_IM-1705-0001-0001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a large pleural effusion . there is no pneumothorax . there is no pleural effusion .
+CXR476_IM-2101-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR688_IM-2256-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a pleural effusion . there is no evidence of pneumothorax .
+CXR837_IM-2361-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3679_IM-1831-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3887_IM-1972-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR903_IM-2409-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are degenerative changes of the spine .
+CXR2072_IM-0706-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is mild cardiomegaly . the pulmonary vasculature is unremarkable . there is no focal airspace opacity . there is no pneumothorax or effusion .
+CXR2821_IM-1244-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: stable cardiomegaly . mild degenerative changes of the thoracic spine .
+CXR790_IM-2329-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR367_IM-1826-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . bony structures are intact .
+CXR2624_IM-1111-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR2704_IM-1171-1001
+Impression: 1 , no acute cardiopulmonary disease , 2 , no evidence of .
+Findings: the heart and pulmonary xxxx are normal . the pleural spaces are clear . heart size normal . no pneumothorax or pleural effusion . no acute bony abnormality .
+CXR3652_IM-1814-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3861_IM-1955-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR515_IM-2129-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3428_IM-1657-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3134_IM-1474-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3466_IM-1683-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3098_IM-1450-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3302_IM-1579-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3079_IM-1438-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR2026_IM-0671-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . bony structures are intact .
+CXR2449_IM-0984-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a large pleural effusion . there is no pneumothorax . there is no large pleural effusion . there is no pneumothorax . there is no large pleural effusion . there is no pneumothorax .
+CXR3451_IM-1674-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3648_IM-1810-3001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . bony structures are intact .
+CXR2959_IM-1354-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR452_IM-2083-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR2625_IM-1112-0001-0002
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR2960_IM-1354-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR2840_IM-1253-1001-0002
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a large pleural effusion . there is no pneumothorax . there is no large pleural effusion . there is no pneumothorax . there is no large pleural effusion . there is no pneumothorax .
+CXR1200_IM-0134-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are degenerative changes of the spine .
+CXR477_IM-2101-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1141_IM-0096-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2774_IM-1215-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size within normal limits . no focal alveolar consolidation , no definite pleural effusion seen . no typical findings of pulmonary edema .
+CXR2212_IM-0819-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3105_IM-1456-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3991_IM-2044-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2936_IM-1338-1002001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR933_IM-2431-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR2149_IM-0768-0001-0001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR1640_IM-0420-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . bony structures are intact .
+CXR417_IM-2060-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR256_IM-1064-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3120_IM-1466-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1202_IM-0136-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: stable cardiomediastinal silhouette is stable . no acute osseous abnormality .
+CXR1587_IM-0381-1002001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1901_IM-0585-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1513_IM-0333-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR1861_IM-0558-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR357_IM-1753-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR619_IM-2202-1002
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR392_IM-1993-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR577_IM-2175-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size , mediastinal contour , and pulmonary vascularity are within normal . no focal consolidation , suspicious pulmonary opacity , large pleural effusion , . visualized osseous structures appear intact .
+CXR609_IM-2197-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR2597_IM-1087-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1101_IM-0068-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1100_IM-0068-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a pleural effusion . there is no evidence of pneumothorax .
+CXR2015_IM-0664-2001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR2541_IM-1053-3001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1649_IM-0426-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right lung base . there are mild degenerative changes of the spine .
+CXR2515_IM-1036-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2185_IM-0795-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1368_IM-0237-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR428_IM-2070-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR1148_IM-0100-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3296_IM-1575-1001-0001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR283_IM-1248-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR977_IM-2465-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3917_IM-1992-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR818_IM-2349-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: stable cardiomegaly . no acute bony abnormality .
+CXR932_IM-2430-4004
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . the heart and mediastinum are normal . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3683_IM-1835-3001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR431_IM-2072-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3333_IM-1597-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3856_IM-1951-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR2135_IM-0757-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1150_IM-0102-1003
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR440_IM-2078-5005
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2964_IM-1357-2001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1243_IM-0165-4004
+Impression: 1 , no acute cardiopulmonary disease , 2 , no evidence of .
+Findings: the heart and mediastinum are unremarkable . there is mild tortuosity of the thoracic aorta . there is no pneumothorax or pleural effusion . there are no focal areas of consolidation .
+CXR3115_IM-1463-1001
+Impression: no acute cardiopulmonary disease .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3796_IM-1909-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR2224_IM-0828-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR671_IM-2245-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR520_IM-2131-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2788_IM-1222-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR1261_IM-0177-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR527_IM-2137-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2592_IM-1084-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2217_IM-0822-0001-0002
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3528_IM-1725-2002
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1957_IM-0624-4004
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is mild cardiomegaly . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2402_IM-0951-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR395_IM-2019-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3095_IM-1448-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3987_IM-2041-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR342_IM-1655-0001-0001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is mild cardiomegaly . the pulmonary vasculature is unremarkable . there is no focal airspace opacity . there is no pneumothorax or effusion .
+CXR1616_IM-0399-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2213_IM-0819-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1400_IM-0256-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR341_IM-1648-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3976_IM-2035-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR641_IM-2220-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR246_IM-0992-1002001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1935_IM-0605-0001-0001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3347_IM-1605-4004
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a large pleural effusion . there is no pneumothorax . there is no pleural effusion .
+CXR889_IM-2401-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1365_IM-0237-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1829_IM-0537-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are degenerative changes of the spine .
+CXR648_IM-2226-4004
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3152_IM-1484-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR271_IM-1176-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size , mediastinal contour , and pulmonary vascularity are within normal . no focal consolidation , suspicious pulmonary opacity , large pleural effusion , . visualized osseous structures appear intact .
+CXR2572_IM-1073-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR2646_IM-1131-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR237_IM-0930-2001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR2654_IM-1137-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . the heart and mediastinum are normal . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR1526_IM-0341-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3802_IM-1912-1001-0002
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is mild cardiomegaly . the right lung is clear . there is no pneumothorax .
+CXR1892_IM-0580-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1932_IM-0603-2001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3685_IM-1836-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR679_IM-2251-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2070_IM-0704-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR10_IM-0002-2001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . the heart and mediastinum are normal . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR1903_IM-0586-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . the heart and mediastinum are normal . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3757_IM-1881-12012
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2344_IM-0909-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR1538_IM-0348-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR2131_IM-0755-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3362_IM-1615-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right lung base . there are mild degenerative changes of the spine .
+CXR584_IM-2181-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1927_IM-0600-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia .
+CXR60_IM-2192-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is mild cardiomegaly . the lungs are clear . no pleural effusion or pneumothorax . heart size and mediastinal contour are within normal limits .
+CXR2398_IM-0947-12012
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is mild cardiomegaly . there is a calcified granuloma in the right lung base . there are mild degenerative changes of the spine .
+CXR1804_IM-0522-82050001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2184_IM-0795-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a large pleural effusion . there is no pneumothorax . there is no pleural effusion .
+CXR699_IM-2263-1001
+Impression: 1 , no acute cardiopulmonary disease , 2 , no evidence of .
+Findings: the heart and pulmonary xxxx are normal . the pleural spaces are clear . there are no acute bony findings .
+CXR623_IM-2205-2002
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1082_IM-0058-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR822_IM-2352-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1765_IM-0499-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR2844_IM-1254-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3701_IM-1848-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1597_IM-0388-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR2262_IM-0852-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a large pleural effusion . there is no pneumothorax . there is no pleural effusion .
+CXR2857_IM-1264-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . there are a calcified granuloma is present in the right upper .
+CXR3086_IM-1444-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR272_IM-1182-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3740_IM-1868-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable mild cardiomegaly .
+Findings: stable cardiomediastinal silhouette with mild cardiomegaly . no pneumothorax or pleural effusion . no acute bony abnormality .
+CXR1403_IM-0258-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3974_IM-2034-2002
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR1915_IM-0595-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR393_IM-2002-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR2334_IM-0902-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1415_IM-0264-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a pleural effusion . there is no evidence of pneumothorax .
+CXR63_IM-2210-0001-0001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1023_IM-0018-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . the heart and mediastinum are normal . the skeletal structures are normal .
+CXR3250_IM-1540-1001-0002
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR2045_IM-0687-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR200_IM-0653-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1679_IM-0448-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3728_IM-1864-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR1199_IM-0133-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR1167_IM-0112-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR41_IM-2055-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is mild cardiomegaly . there is a calcified granuloma in the right lung base . there are mild degenerative changes of the spine .
+CXR3058_IM-1425-12012
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2860_IM-1268-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3967_IM-2028-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1937_IM-0607-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3256_IM-1543-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a large pleural effusion . there is no pneumothorax . there is no pleural effusion .
+CXR1686_IM-0450-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR309_IM-1444-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR1744_IM-0489-2001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right lung base . there are mild degenerative changes of the spine .
+CXR1601_IM-0390-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR2428_IM-0970-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3180_IM-1500-3001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3413_IM-1650-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR799_IM-2333-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3146_IM-1479-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR806_IM-2340-0001-0002
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable mild cardiomegaly .
+Findings: stable cardiomediastinal silhouette with mild cardiomegaly . no pneumothorax or pleural effusion . no acute bony abnormality .
+CXR1344_IM-0223-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3182_IM-1501-0001-0001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR2117_IM-0745-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size , mediastinal contour , and pulmonary vascularity are within normal . no focal consolidation , suspicious pulmonary opacity , large pleural effusion , . visualized osseous structures appear intact .
+CXR2173_IM-0786-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR1074_IM-0054-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3087_IM-1444-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right lung base . there are mild degenerative changes of the spine .
+CXR2225_IM-0829-3001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR783_IM-2325-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR534_IM-2141-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . bony structures are intact .
+CXR1974_IM-0633-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR1576_IM-0375-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is mild cardiomegaly . the pulmonary vasculature is unremarkable . there is no focal airspace opacity . no pleural effusion or pneumothorax is seen . degenerative changes are present in the spine .
+CXR3687_IM-1838-2001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR161_IM-0394-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR488_IM-2110-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2824_IM-1245-13001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR1168_IM-0112-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1126_IM-0082-1001
+Impression: 1 , no acute cardiopulmonary disease , 2 , no evidence of .
+Findings: the heart and mediastinum are unremarkable . there is mild tortuosity of the thoracic aorta . there is no pneumothorax or pleural effusion . there are no focal areas of consolidation . there are calcified granuloma within the right lung .
+CXR744_IM-2299-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3300_IM-1578-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR652_IM-2229-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1666_IM-0440-0001-0001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1581_IM-0378-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3705_IM-1851-1001-0001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a large pleural effusion . there is no pneumothorax . there is no pleural effusion .
+CXR3452_IM-1675-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR105_IM-0037-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR1323_IM-0209-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3501_IM-1706-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3801_IM-1912-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a pleural effusion . there is no evidence of pneumothorax .
+CXR3892_IM-1974-0001-0001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is mild cardiomegaly . there is a calcified granuloma in the right lung base . there are mild degenerative changes of the spine .
+CXR3424_IM-1656-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3481_IM-1692-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR397_IM-2030-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2226_IM-0830-12001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR2086_IM-0717-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR2450_IM-0986-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3370_IM-1622-2001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a pleural effusion . there is no evidence of pneumothorax .
+CXR3401_IM-1645-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR2014_IM-0664-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1376_IM-0242-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1103_IM-0070-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3694_IM-1845-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . bony structures are intact .
+CXR251_IM-1032-3001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3860_IM-1954-2001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3636_IM-1803-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1294_IM-0193-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . there are a calcified granuloma is present in the right upper .
+CXR19_IM-0583-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable mild cardiomegaly .
+Findings: stable cardiomediastinal silhouette with mild cardiomegaly . no pneumothorax or pleural effusion . no acute bony abnormality .
+CXR1149_IM-0101-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3798_IM-1911-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . the heart and mediastinum are normal . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3632_IM-1799-2001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . the heart and mediastinum are normal . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR2581_IM-1079-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable mild cardiomegaly .
+Findings: stable cardiomediastinal silhouette with mild cardiomegaly . no pneumothorax or pleural effusion . no acute bony abnormality .
+CXR1465_IM-0302-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1384_IM-0246-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR5_IM-2117-1003002
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3908_IM-1985-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR101_IM-0011-4004
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is mild cardiomegaly . the pulmonary xxxx are grossly unremarkable .
+CXR2589_IM-1083-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1374_IM-0240-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR191_IM-0591-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size is normal . the mediastinal contour is within normal limits . the lungs are free of any focal infiltrates . there are no nodules or masses . no visible pneumothorax . no visible pleural fluid .
+CXR2432_IM-0974-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1248_IM-0168-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3552_IM-1741-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . bony structures are intact .
+CXR2067_IM-0701-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR827_IM-2356-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR540_IM-2146-4004
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR2899_IM-1301-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3398_IM-1642-4004
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is mild cardiomegaly . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1926_IM-0600-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1399_IM-0255-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3117_IM-1465-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3187_IM-1503-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a large pleural effusion . there is no pneumothorax . there is no large pleural effusion . there is no pneumothorax . there is no large pleural effusion . there is no pneumothorax .
+CXR1388_IM-0246-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size within normal limits . no focal alveolar consolidation , no definite pleural effusion seen . no typical findings of pulmonary edema .
+CXR1808_IM-0524-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are degenerative changes of the spine .
+CXR3543_IM-1735-2001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR2471_IM-1002-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . bony structures are intact .
+CXR495_IM-2114-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR2103_IM-0734-0001-0001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR605_IM-2194-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3165_IM-1490-13013
+Impression: 1 , no acute cardiopulmonary disease , 2 , no evidence of .
+Findings: pa and lateral views the chest were obtained . the cardiomediastinal silhouette is normal in size and configuration . the lungs are well aerated . there is no pneumothorax , pleural effusion , or focal air space . mild degenerative changes .
+CXR3547_IM-1739-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is mild cardiomegaly . the pulmonary vasculature is unremarkable . there is no focal airspace opacity . there is no pneumothorax or effusion .
+CXR680_IM-2251-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right lung base . there are mild degenerative changes of the spine .
+CXR791_IM-2330-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3327_IM-1593-2001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a large pleural effusion . there is no pneumothorax . there is no pleural effusion .
+CXR945_IM-2440-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable mild cardiomegaly .
+Findings: stable cardiomediastinal silhouette with mild cardiomegaly . no focal alveolar consolidation , no definite pleural effusion seen . no typical findings of pulmonary edema .
+CXR3427_IM-1657-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR1210_IM-0142-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR1287_IM-0188-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR3193_IM-1505-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR2354_IM-0918-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR536_IM-2143-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR657_IM-2233-0001-0001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a large pleural effusion . there is no pneumothorax . there is no pleural effusion .
+CXR2031_IM-0676-2002
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1817_IM-0529-4004
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR833_IM-2359-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR1667_IM-0441-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR2562_IM-1065-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a large pleural effusion . there is no pneumothorax . there is no pleural effusion .
+CXR3402_IM-1646-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3357_IM-1610-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR2111_IM-0741-2001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable mild cardiomegaly .
+Findings: stable cardiomediastinal silhouette with mild cardiomegaly . no focal alveolar consolidation , no definite pleural effusion seen . no typical findings of pulmonary edema .
+CXR1226_IM-0150-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR3218_IM-1520-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR836_IM-2360-2001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no acute bony findings .
+CXR768_IM-2313-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR1391_IM-0250-1001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a pleural effusion . there is no evidence of pneumothorax .
+CXR1774_IM-0507-2001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no convincing acute bony findings .
+CXR914_IM-2417-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is a calcified granuloma in the right upper lobe . lungs are otherwise clear .
+CXR3172_IM-1494-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .
+CXR731_IM-2291-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3179_IM-1499-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are degenerative changes of the spine .
+CXR737_IM-2295-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR3609_IM-1782-2001
+Impression: 1 , no acute cardiopulmonary abnormality , 2 , stable cardiomegaly .
+Findings: there is no focal consolidation . there are no xxxx of a pleural effusion . there is no evidence of pneumothorax .
+CXR741_IM-2297-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal consolidation , pleural effusion , or pneumothorax identified . no acute bony findings .
+CXR717_IM-2279-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart size and mediastinal contours appear within normal limits . no focal airspace consolidation , pleural effusion or pneumothorax . no acute bony abnormalities .
+CXR2451_IM-0987-1001
+Impression: no acute cardiopulmonary abnormality .
+Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there are mild degenerative changes of the spine .

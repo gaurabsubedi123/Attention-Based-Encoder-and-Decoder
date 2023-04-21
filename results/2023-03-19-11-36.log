@@ -1,0 +1,44 @@
+2023-03-19 11:36:32,782 =======================================================
+2023-03-19 11:36:32,782 Namespace(model_path='model_weights/', vocab_path='IUdata/data_vocab_threshold_0.pkl', image_dir='IUdata/FrontalView_IUXRay', json_dir='IUdata/data_train.json', log_path='./results', resize_size=256, crop_size=224, batch_size=32, num_workers=4, embed_size=512, hidden_size=512, num_global_features=2048, imp_layers_num=1, fin_num_layers=2, sen_enco_num_layers=3, num_local_features=2048, num_regions=49, num_conv1d_out=1024, teach_rate=1.0, learning_rate=0.0001, epochs=50, sche_step_size=5, sche_decay=0.9, log_step=50, save_step=10, lambda_imp=0.5, lambda_fin=0.5, fix_image_encoder=True, dropout_rate=0.2, log_metrics_step=1, train_separately=True, imp_fin_only=True, eval_json_dir='IUdata/data_test.json', eval_batch_size=75, max_impression_len=15, max_single_sen_len=15, max_sen_num=7, single_punc=True)
+2023-03-19 11:36:32,782 =======================================================
+2023-03-19 11:36:32,782 Start the 1th run of the same model
+2023-03-19 11:37:44,996 The model performance improved when epoch [1/50], BLEU4:0.0093
+2023-03-19 11:38:30,116 The model performance improved when epoch [2/50], BLEU4:0.0634
+2023-03-19 11:39:16,644 The model performance improved when epoch [3/50], BLEU4:0.0727
+2023-03-19 11:40:01,807 The model performance improved when epoch [4/50], BLEU4:0.0988
+2023-03-19 11:40:47,486 The model performance improved when epoch [5/50], BLEU4:0.1158
+2023-03-19 11:42:19,011 The model performance improved when epoch [7/50], BLEU4:0.1166
+2023-03-19 11:43:03,831 The model performance improved when epoch [8/50], BLEU4:0.1335
+2023-03-19 11:43:48,912 The model performance improved when epoch [9/50], BLEU4:0.1552
+2023-03-19 12:03:39,652 The model performance improved when epoch [35/50], BLEU4:0.1565
+2023-03-19 12:15:16,873 Values of metric for the best model are: 
+ BLEU:[0.438, 0.2998, 0.2141, 0.1565], METEOR:0.1834, ROUGE:0.34, Cider:0.1565
+2023-03-19 12:15:16,873 Save the best model weights when epoch [35/50], BLEU4:0.1565
+2023-03-19 12:15:16,874 =======================================================
+2023-03-19 12:15:16,879 Start the 2th run of the same model
+2023-03-19 12:16:03,102 The model performance improved when epoch [1/50], BLEU4:0.0103
+2023-03-19 12:16:49,019 The model performance improved when epoch [2/50], BLEU4:0.0419
+2023-03-19 12:17:35,174 The model performance improved when epoch [3/50], BLEU4:0.0932
+2023-03-19 12:19:06,461 The model performance improved when epoch [5/50], BLEU4:0.1121
+2023-03-19 12:22:10,133 The model performance improved when epoch [9/50], BLEU4:0.141
+2023-03-19 12:22:55,915 The model performance improved when epoch [10/50], BLEU4:0.1513
+2023-03-19 12:53:48,721 Values of metric for the best model are: 
+ BLEU:[0.3827, 0.2772, 0.2035, 0.1513], METEOR:0.1558, ROUGE:0.3197, Cider:0.1199
+2023-03-19 12:53:48,729 Save the best model weights when epoch [10/50], BLEU4:0.1513
+2023-03-19 12:53:48,729 =======================================================
+2023-03-19 12:53:48,734 Start the 3th run of the same model
+2023-03-19 12:54:36,279 The model performance improved when epoch [1/50], BLEU4:0.0074
+2023-03-19 12:55:23,621 The model performance improved when epoch [2/50], BLEU4:0.0757
+2023-03-19 12:56:57,717 The model performance improved when epoch [4/50], BLEU4:0.0924
+2023-03-19 12:57:43,445 The model performance improved when epoch [5/50], BLEU4:0.1136
+2023-03-19 12:58:29,569 The model performance improved when epoch [6/50], BLEU4:0.1371
+2023-03-19 13:03:51,080 The model performance improved when epoch [13/50], BLEU4:0.1372
+2023-03-19 13:05:22,028 The model performance improved when epoch [15/50], BLEU4:0.1449
+2023-03-19 13:27:49,301 The model performance improved when epoch [44/50], BLEU4:0.1492
+2023-03-19 13:32:30,081 Values of metric for the best model are: 
+ BLEU:[0.4086, 0.2757, 0.2, 0.1492], METEOR:0.1726, ROUGE:0.3424, Cider:0.2035
+2023-03-19 13:32:30,081 Save the best model weights when epoch [44/50], BLEU4:0.1492
+2023-03-19 13:32:30,081 =======================================================
+2023-03-19 13:32:30,086 *******************************************************
+2023-03-19 13:32:30,088 Final Result -- Average values of metric for the best model are: 
+ BLEU:[0.40976667 0.28423333 0.20586667 0.15233333], METEOR:0.1706, ROUGE:0.33403333333333335, Cider:0.15996666666666667
