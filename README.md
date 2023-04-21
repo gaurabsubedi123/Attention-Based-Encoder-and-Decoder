@@ -7,4 +7,3 @@ Respective reports: https://openi.nlm.nih.gov/imgs/collections/NLMCXR_reports.tg
 https://drive.google.com/drive/folders/1yLEgiXD5ZwcKHaC8LXgTLJw00VReQT4K?usp=share_link
 
 Need to include the files in respective directory from the drive <br>
-![alt text](/home/gaurab/Desktop/IDEAFEST_final.png "Architecture")
